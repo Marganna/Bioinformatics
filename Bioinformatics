@@ -1,0 +1,16 @@
+Bioinformatics is computer science applied to biology.  Application of algorithms, data structures
+and machine learning to analyse DNA,proteins and evolutionary history. 
+
+DNA & Protein
+
+DNA == Deoxyribose Nucleic Acid which stores all the required information for a living, grouth and 
+function. DNA is made of of a chain of nucleotidies, and each of them consists of a  sugar [deoxyribose]
+a phosphate group and one out of four nucleobases [ Adenine=A, Cytosine=C, Guanine=G and Thymine=T]
+The helical strands are composed of deoxyribose sugar and phosphate groups usually called the "backbone" of 
+the DNA molecule. Each rung has 2 nucleobases, wich attach the strands together.
+Adenine can only pair with Thymine, and Guanine only Cytosine.
+
+DNA sequence of characters 
+
+A short segment of DNA could be represented by a sequence of characters 
+  
