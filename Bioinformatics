@@ -4,7 +4,7 @@ and machine learning to analyse DNA,proteins and evolutionary history.
 DNA & Protein
 
 DNA == Deoxyribose Nucleic Acid which stores all the required information for a living, grouth and 
-function. DNA is made of of a chain of nucleotidies, and each of them consists of a  sugar [deoxyribose]
+function. DNA is made of of a chain of nucleotidies, and each of them consists of a sugar [deoxyribose]
 a phosphate group and one out of four nucleobases [ Adenine=A, Cytosine=C, Guanine=G and Thymine=T]
 The helical strands are composed of deoxyribose sugar and phosphate groups usually called the "backbone" of 
 the DNA molecule. Each rung has 2 nucleobases, wich attach the strands together.
@@ -12,5 +12,30 @@ Adenine can only pair with Thymine, and Guanine only Cytosine.
 
 DNA sequence of characters 
 
-A short segment of DNA could be represented by a sequence of characters 
+A short segment [nibble] of DNA could be represented by a sequence of characters. Only A and T or G and C are 
+able to be opposite each other. We can represent DNA sequence by a single sequence of chars. E.g. AACGTCGA
+
+The size
+
+The size of DNA is mesured in number of base pairs which varies from species to species, in 10.000s to 100 
+billions of range. Humans have approximetely 3.2 billion compressed coiled form to fit inside the cell nucleus.
+
+Replication and mutations
+
+As the cells are being continously destroyed and created, each cell contains a copy of DNA which needs to be copied
+for a new cell to be created. Thus 2 strands are seperated, after which each of them serves as a template for the 
+construction of its complementary strand. After the construction 2 copies of the DNA are aquired. 
+In the process of reproduction replication and combinationa needs as well. During the replication some errors may
+occur [==mutation] which are defined from single-nucleotide to large section of the DNA getting copied twice or
+deleted.
+
+Proteins
+
+Proteins ability to perform a specific function, is dependent on its shape and structure. DNA can be blueprint
+for protein [could be building blocks of life]  construction. 
+
+Structure of protein
+
+Protein == coprises amino acids chains [peptide] and there are 20 amino acids. The sequence of amino acids that make up a 
+particular enviroment and to other molecules. 
   
